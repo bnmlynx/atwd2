@@ -6,10 +6,10 @@ Visit application [here](https://bnmlynx.com/airquality/)
 
 This project involved taking a csv file containing 280,000+ records of air quality readings from a number of locations around Bristol and then extracting the relevant information to plot on two different graphs using the Google Charts API.
 
-### Scatter Graph or Line Graph
+### Scatter Graph & Line Graph
 
 The scatter graph shows the readings of Nitrogen Dioxide for a certain location at a certain time over the course of a year.
-inde
+
 The line graph shows the readings of Nitrogen Dioxide over a 24hr period at a certain location.
 
 ### Breakdown of the technical process 
