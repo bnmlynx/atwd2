@@ -1,0 +1,4 @@
+[06-Sep-2018 20:47:24 GMT] PHP Notice:  Undefined index: location in /var/www/vhosts/bnmlynx.com/httpdocs/assignment/php/getData.php on line 17
+[06-Sep-2018 20:47:24 GMT] PHP Notice:  Undefined index: time in /var/www/vhosts/bnmlynx.com/httpdocs/assignment/php/getData.php on line 18
+[06-Sep-2018 20:47:24 GMT] PHP Notice:  Undefined index: year in /var/www/vhosts/bnmlynx.com/httpdocs/assignment/php/getData.php on line 19
+[06-Sep-2018 20:47:24 GMT] PHP Fatal error:  Class 'XMLReader' not found in /var/www/vhosts/bnmlynx.com/httpdocs/assignment/php/functions.php on line 193
